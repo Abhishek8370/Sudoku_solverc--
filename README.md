@@ -1,4 +1,4 @@
-# Sudoku_solverc--
+# Sudoku_solverc++
 This code is an implementation of a Sudoku solver using backtracking. It solves a given Sudoku puzzle by recursively trying different numbers in empty spaces and backtracking when an incorrect number is inserted. Here's a breakdown of the code:
 
 1. The code includes necessary header files (`<iostream>`, `<algorithm>`, `<vector>`) and defines constants `N` and `n`.
